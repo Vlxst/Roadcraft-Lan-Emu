@@ -1,0 +1,12 @@
+*.dll
+*.exe
+*.obj
+*.lib
+*.exp
+*.pdb
+*.dmp
+*.jsonl
+__pycache__/
+/build/
+/native/build/
+/logs/
